@@ -18,14 +18,14 @@ header{
 border-top:solid 10px #ba55d3;
 }
 section{
-background-image:url(bot.png);
+background-image:url(image/bot.png);
 background-repeat:no-repeat;
 background-position:104% -15%;
 background-size:100px 100px;
 text-align:center;
 }
 body{
-background-image: url(b082.jpg);
+background-image: url(image/b082.jpg);
 }
 section{
 box-shadow:0 0 10px 0 #ccc;
